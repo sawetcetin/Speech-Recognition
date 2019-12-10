@@ -1,0 +1,10 @@
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\bin\Debug\Bilgin.exe.config
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\bin\Debug\Bilgin.exe
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\bin\Debug\Bilgin.pdb
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.csprojAssemblyReference.cache
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.Form1.resources
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.Properties.Resources.resources
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.csproj.GenerateResource.cache
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.csproj.CoreCompileInputs.cache
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.exe
+D:\Programlama\C#\Bilgin Robot\Bilgin\Bilgin\obj\Debug\Bilgin.pdb
